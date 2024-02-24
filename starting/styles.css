@@ -16,6 +16,11 @@ p {
     font-size: 14px;
 }
 
+.footer {
+    font-size: x-small;
+    text-align: right;
+}
+
 /* Anchors and URLs */
 
 a {

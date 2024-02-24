@@ -1,6 +1,32 @@
 /* Overall style */
 
+/* <uniquifier>: Use a uniquifier for the class name */
+/* <weight>: Use a value from 100 to 900 */
+html {
+ font-family: 'raleway', sans-serif ;
+}
+
+body {
+
+}
+
+p {
+
+}
+
+/* Anchord and URLs */
+
+a {
+
+}
+
+a:hover {
+
+}
 
 /* Headers */
+h1 {
+    
+}
 
 /* Boxes */

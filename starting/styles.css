@@ -7,26 +7,62 @@ html {
 }
 
 body {
-
+    font-family: 'raleway', sans-serif;
 }
 
 p {
-
+    font-family: 'raleway', sans-serif;
+    color: gray;
+    font-size: 14px;
 }
 
-/* Anchord and URLs */
+/* Anchors and URLs */
 
 a {
+    text-decoration: underline;
 
 }
 
 a:hover {
-
+    text-decoration: none;
+    cursor: pointer;
 }
 
 /* Headers */
 h1 {
-    
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+h3 {
+    font-weight: 300;
+}
+
+/* Colours */
+
+.blue-shade-standard {
+    color: #0000ff;
+} 
+.blue-shade-dark-1 {
+    color: #0000e6;
+}
+.blue-shade-dark-2 {
+    color: #0000cc;
+}
+.blue-shade-dark-3 {
+    color: #0000b3;
+}
+.blue-shade-light-1 {
+    color: #3333ff;
+}
+.blue-shade-light-2 {
+    color: #4d4dff;
+}
+.blue-shade-light-3 {
+    color: #6666ff;
 }
 
 /* Boxes */

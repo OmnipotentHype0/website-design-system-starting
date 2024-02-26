@@ -89,6 +89,61 @@ h3 {
     color: #6666ff;
 }
 
+/* Fonts */
+
+.raleway-0 {
+    font-family: 'Raleway';
+    font-weight: 0;
+}
+
+.raleway-100 {
+    font-family: 'Raleway';
+    font-weight: 100;
+}
+.raleway-200 {
+    font-family: 'Raleway';
+    font-weight: 200;
+}
+.raleway-300 {
+    font-family: 'Raleway';
+    font-weight: 300;
+}
+.raleway-400 {
+    font-family: 'Raleway';
+    font-weight: 400;
+}
+.raleway-500 {
+    font-family: 'Raleway';
+    font-weight: 500;
+}
+.raleway-600 {
+    font-family: 'Raleway';
+    font-weight: 600;
+}
+.raleway-700 {
+    font-family: 'Raleway';
+    font-weight: 700;
+}
+.raleway-800 {
+    font-family: 'Raleway';
+    font-weight: 800;
+}
+.raleway-900 {
+    font-family: 'Raleway';
+    font-weight: 900;
+}
+
+.raleway-italics {
+    font-family: 'Raleway';
+    font-style: italic;
+}
+
+.raleway-bold {
+    font-family: 'Raleway';
+    font-weight: bold;
+}
+
+
 /* Boxes */
 
 
